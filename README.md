@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+This "spaceship simulation roguelike-like" allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Mac OS X 10.6 or above |
+| **Processor** | 2 GHz | Intel 2 GHz |
+| **Memory** | 1 GB RAM | 1 GB RAM |
+| **Graphics** | 1280x720 minimum resolution, OpenGL 2.0 Support, and re… | 1280x720 minimum resolution, OpenGL 2.0 Support, and re… |
+| **OS *** | Windows XP / Vista / 7 | Windows XP / Vista / 7 |
+| **Hard Drive** | 175 MB HD space | 175 MB HD space |
 
 ---
 
